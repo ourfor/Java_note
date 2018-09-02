@@ -1,2 +1,4 @@
-javac hello.java
-java hello.class
+#!/bin/bash
+
+javac Hello.java
+java Hello.class
