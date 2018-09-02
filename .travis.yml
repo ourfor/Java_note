@@ -1,6 +1,4 @@
 language: java
 sudo: false
 os: osx
-script:
-     - javac hello.java
-     - java hello
+script: ./compile_java.sh build
