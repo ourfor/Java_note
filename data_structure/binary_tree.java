@@ -35,7 +35,7 @@ void Preorder(BiTree T){
 	}
 
 }
-	public static void main(){
+	public static void main(String args[]){
 		BiTree T;
 		System.out.printf("please input the root of the tree:\n");
 		Create(T);
