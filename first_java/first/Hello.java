@@ -1,5 +1,6 @@
 //课本上面的java程序例子源码
 //author:ourfor data:20180902
+package first;
 
 public class Hello{
 	public static void main (String args[]){

@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"BubbleSort","h":"","u":""}]

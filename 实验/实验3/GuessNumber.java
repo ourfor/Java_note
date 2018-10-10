@@ -10,7 +10,6 @@ public class GuessNumber{
 		if(yourGuess>realNumber){
 			str=JOptionPane.showInputDialog("猜大了，再输入你的猜测:");
 			yourGuess=Integer.parseInt(str);
-
 		}
 
 		else if(yourGuess<realNumber){
