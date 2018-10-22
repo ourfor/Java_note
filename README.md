@@ -15,19 +15,16 @@
   </th>
   <tr>
   <td>第一节</td>
+  <td align=center rowspan=2>高等数学A(理化214)</td>
+  <td align=center rowspan=2>线性代数(理化327)</td>
   <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td align=center rowspan=2>程序设计基础(理化327)</td>
+  <td align=center rowspan=2>高等数学A(理化214)</td>
   <td></td>
   <td></td>
   </tr>
   <tr>
   <td>第二节</td>
-  <td></td>
-  <td></td>
-  <td></td>
   <td></td>
   <td></td>
   <td></td>
@@ -101,7 +98,7 @@
   </tr>
   <tr>
   <td>第一节</td>
-  <td align=center rowspan=3>Java校选课</td>
+  <td align=center rowspan=3>Java校选课(至502)</td>
   <td></td>
   <td></td>
   <td></td>
