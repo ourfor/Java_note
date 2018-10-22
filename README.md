@@ -10,8 +10,6 @@
   <td align=center>星期三</td>
   <td align=center>星期四</td>
   <td align=center>星期五</td>
-  <td align=center>星期六</td>
-  <td align=center>星期天</td>
   </th>
   <tr>
   <td>第一节</td>
@@ -20,22 +18,15 @@
   <td></td>
   <td align=center rowspan=2>程序设计基础(理化327)</td>
   <td align=center rowspan=2>高等数学A(理化214)</td>
-  <td></td>
-  <td></td>
   </tr>
   <tr>
   <td>第二节</td>
   <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
   </tr>
   <tr>
   <td>第三节</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td align=center rowspan=2>程序设计基础(理化327)</td>
+  <td align=center rowspan=3>大学英语(至105)</td>
   <td></td>
   <td></td>
   <td></td>
@@ -45,18 +36,12 @@
   <td></td>
   <td></td>
   <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
   </tr>
   <tr>
-  <td align=center colspan=8>我的课表居然这么满🍎🍏🍐🍑🍒🍓🥝🍅</td>
+  <td align=center colspan=6>我的课表居然这么满🍎🍏🍐🍑🍒🍓🥝🍅</td>
   </tr>
   <tr>
   <td>第五节</td>
-  <td></td>
-  <td></td>
   <td></td>
   <td></td>
   <td></td>
@@ -70,13 +55,9 @@
   <td></td>
   <td></td>
   <td></td>
-  <td></td>
-  <td></td>
   </tr>
   <tr>
   <td>第七节</td>
-  <td></td>
-  <td></td>
   <td></td>
   <td></td>
   <td></td>
@@ -90,17 +71,13 @@
   <td></td>
   <td></td>
   <td></td>
-  <td></td>
-  <td></td>
   </tr>
   <tr>
-  <td align=center colspan=8>认识你真好🍇🍈🍉🍊🍋🍌🍍</td>
+  <td align=center colspan=6>认识你真好🍇🍈🍉🍊🍋🍌🍍</td>
   </tr>
   <tr>
   <td>第一节</td>
   <td align=center rowspan=3>Java校选课(至502)</td>
-  <td></td>
-  <td></td>
   <td></td>
   <td></td>
   <td></td>
@@ -111,13 +88,9 @@
   <td></td>
   <td></td>
   <td></td>
-  <td></td>
-  <td></td>
   </tr>
   <tr>
   <td>第三节</td>
-  <td></td>
-  <td></td>
   <td></td>
   <td></td>
   <td></td>
