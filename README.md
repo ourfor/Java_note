@@ -1,6 +1,4 @@
-# Java_note
-Learning Java Language
+<h1 align=center> Java 读书笔记 
 
-# Install JDK
-- For OS X and Linux 
+## Learning Java Language 
 
