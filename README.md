@@ -15,53 +15,41 @@
   <td>第一节</td>
   <td align=center rowspan=2>高等数学A(理化214)</td>
   <td align=center rowspan=2>线性代数(理化327)</td>
-  <td></td>
+  <td align=center rowspan=4>软件综合(一)(机房)</td>
   <td align=center rowspan=2>程序设计基础(理化327)</td>
-  <td align=center rowspan=2>高等数学A(理化214)</td>
+  <td align=center rowspan=4>软件综合(一)(机房)</td>
   </tr>
   <tr>
   <td>第二节</td>
-  <td></td>
   </tr>
   <tr>
   <td>第三节</td>
   <td align=center rowspan=2>程序设计基础(理化327)</td>
-  <td align=center rowspan=3>大学英语(至105)</td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td align=center rowspan=2>大学英语(至105)</td>
+  <td align=center rowspan=2>大学体育(体育馆)</td>
   </tr>
   <tr>
   <td>第四节</td>
-  <td></td>
-  <td></td>
-  <td></td>
   </tr>
   <tr>
-  <td align=center colspan=6>我的课表居然这么满🍎🍏🍐🍑🍒🍓🥝🍅</td>
+  <td align=center>午安</td>
+  <td align=center colspan=5>我的课表居然这么满🍎🍏🍐🍑🍒🍓🥝🍅</td>
   </tr>
   <tr>
   <td>第五节</td>
+  <td align=center rowspan=4>程序设计基础(机房)</td>
+  <td align=center rowspan=3>面向对象软件方法学(至308)</td>
+  <td align=center rowspan=3>算法分析与设计(至308)</td>
   <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td align=center rowspan=3>操作系统(至116)</td>
   </tr>
   <tr>
   <td>第六节</td>
   <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  
   </tr>
   <tr>
   <td>第七节</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
   <td></td>
   </tr>
   <tr>
@@ -70,10 +58,10 @@
   <td></td>
   <td></td>
   <td></td>
-  <td></td>
   </tr>
   <tr>
-  <td align=center colspan=6>认识你真好🍇🍈🍉🍊🍋🍌🍍</td>
+  <td align=center>傍晚</td>
+  <td align=center colspan=5>认识你真好🍇🍈🍉🍊🍋🍌🍍</td>
   </tr>
   <tr>
   <td>第一节</td>
