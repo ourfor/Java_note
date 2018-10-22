@@ -1,5 +1,5 @@
-public class for {
-        public static void main(String argv[]) {
+public class pracitce {
+    public static void main(String argv[]) {
         System.out.println("Nice to meet you!");
 
         for (int i = 1; i <= 9; i++) {
@@ -43,5 +43,4 @@ public class for {
             System.out.println("输入有误!");
         }
     }
-}
 }
