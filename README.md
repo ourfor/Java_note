@@ -109,4 +109,13 @@
 - 图形、图像与音频
 - 泛型与集合框架
 
+---
+# java环境配置
+> Platform: Windows、Linux、macOS
+
+### Windows
+- 下载[JDK]()
+- 环境变量的配置
+
+
 <img src="https://i.loli.net/2018/10/22/5bcde2dbbea11.png">
