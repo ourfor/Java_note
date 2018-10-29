@@ -40,6 +40,32 @@ public class main {
         System.out.println("数组元素的最大值为："+max_nums);
         System.out.println("数组元素的最小值为："+min_nums);
         System.out.println("数组元素的平均值为："+average_nums);
+        //Arrays.sort(hobbys);
+
+        System.out.println("数组转换为字符:"+ Arrays.toString(hobbys));
+
+        String[] hobbys2={"imooc","慕课网","www.imooc.com"};
+        System.out.println("");
+        for(int i=0;i<hobbys2.length;i++) System.out.print(""+hobbys2[i]+" ");
+        System.out.println();
+        for(String hobby_elem:hobbys2) System.out.print(""+hobby_elem+" ");
+
+        System.out.println();
+        //二维数组
+        int[][] num2={{1,2,3},{4,5,6}};
+        for(int i=0;i<num2.length;i++){
+            for(int j=0;j<num2[i].length;j++) System.out.print(""+num2[i][j]);
+        }
+
+        System.out.println();
+        
+        //维度不同的数组
+        
+        String[][] names=new String[2][];
+        names={{"tom","jack","mike"},{"zhangsan","lisi","wangwu"}};
+        for(int i=0;i<names[i].length;i++) System.out.println(""+names);
+        
+
     }
 }
 /*
@@ -53,6 +79,17 @@ Java中的数组：
 - 数组越界
 - 内存管理
 
+array类(位于java的util包中，是一个工具类。)：
+功能:排序
+### 方法:
+- Array
+
+Foreach:
+- 遍历规则可以自定义
+
+内存提供抽象：字节数组
+32位2的32次方
+64位2的64次方
 
 
 预分配
